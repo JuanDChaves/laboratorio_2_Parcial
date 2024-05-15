@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "laboratorio_2_Parcial/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/laboratorio_2_Parcial.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/laboratorio_2_Parcial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laboratorio_2_Parcial/1.0.0": {
+      "type": "project",
+      "path": "../laboratorio_2_Parcial/laboratorio_2_Parcial.csproj",
+      "msbuildProject": "../laboratorio_2_Parcial/laboratorio_2_Parcial.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "laboratorio_2_Parcial >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Juan David Chaves\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Juan David Chaves\\UTN\\II\\laboratorio_2_Parcial\\FrmAtencion\\FrmAtencion.csproj",
+      "projectName": "FrmAtencion",
+      "projectPath": "C:\\Users\\Juan David Chaves\\UTN\\II\\laboratorio_2_Parcial\\FrmAtencion\\FrmAtencion.csproj",
+      "packagesPath": "C:\\Users\\Juan David Chaves\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Juan David Chaves\\UTN\\II\\laboratorio_2_Parcial\\FrmAtencion\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Juan David Chaves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Juan David Chaves\\UTN\\II\\laboratorio_2_Parcial\\laboratorio_2_Parcial\\laboratorio_2_Parcial.csproj": {
+              "projectPath": "C:\\Users\\Juan David Chaves\\UTN\\II\\laboratorio_2_Parcial\\laboratorio_2_Parcial\\laboratorio_2_Parcial.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

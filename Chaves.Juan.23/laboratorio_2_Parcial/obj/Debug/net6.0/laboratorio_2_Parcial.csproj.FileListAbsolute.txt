@@ -1,0 +1,11 @@
+C:\Users\Juan David Chaves\UTN\II\laboratorio_2_Parcial\laboratorio_2_Parcial\bin\Debug\net6.0\laboratorio_2_Parcial.deps.json
+C:\Users\Juan David Chaves\UTN\II\laboratorio_2_Parcial\laboratorio_2_Parcial\bin\Debug\net6.0\laboratorio_2_Parcial.dll
+C:\Users\Juan David Chaves\UTN\II\laboratorio_2_Parcial\laboratorio_2_Parcial\bin\Debug\net6.0\laboratorio_2_Parcial.pdb
+C:\Users\Juan David Chaves\UTN\II\laboratorio_2_Parcial\laboratorio_2_Parcial\obj\Debug\net6.0\laboratorio_2_Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan David Chaves\UTN\II\laboratorio_2_Parcial\laboratorio_2_Parcial\obj\Debug\net6.0\laboratorio_2_Parcial.AssemblyInfoInputs.cache
+C:\Users\Juan David Chaves\UTN\II\laboratorio_2_Parcial\laboratorio_2_Parcial\obj\Debug\net6.0\laboratorio_2_Parcial.AssemblyInfo.cs
+C:\Users\Juan David Chaves\UTN\II\laboratorio_2_Parcial\laboratorio_2_Parcial\obj\Debug\net6.0\laboratorio_2_Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Juan David Chaves\UTN\II\laboratorio_2_Parcial\laboratorio_2_Parcial\obj\Debug\net6.0\laboratorio_2_Parcial.dll
+C:\Users\Juan David Chaves\UTN\II\laboratorio_2_Parcial\laboratorio_2_Parcial\obj\Debug\net6.0\refint\laboratorio_2_Parcial.dll
+C:\Users\Juan David Chaves\UTN\II\laboratorio_2_Parcial\laboratorio_2_Parcial\obj\Debug\net6.0\laboratorio_2_Parcial.pdb
+C:\Users\Juan David Chaves\UTN\II\laboratorio_2_Parcial\laboratorio_2_Parcial\obj\Debug\net6.0\ref\laboratorio_2_Parcial.dll
